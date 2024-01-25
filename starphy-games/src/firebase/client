@@ -1,0 +1,9 @@
+export default firebaseConfig = {
+  apiKey: "AIzaSyCwAI3XgGnh4GQ0je4kDB4vPYqwtl1qUFQ",
+  authDomain: "newstarphy.firebaseapp.com",
+  projectId: "newstarphy",
+  storageBucket: "newstarphy.appspot.com",
+  messagingSenderId: "97883779741",
+  appId: "1:97883779741:web:baa203e75de05dac2e5a74",
+  measurementId: "G-8KBXZDC4FL"
+};
