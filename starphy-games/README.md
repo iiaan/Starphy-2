@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Nueva Version de Starphy 🚀
+Introducción
+El proyecto Starphy surge de una necesidad con la determinación de resolver un problema: proporcionar al público un extenso catálogo de videojuegos para PC. Nuestra visión es ofrecer una interfaz fácil de usar que simplifique la adquisición de juegos y haga que encontrar el videojuego perfecto sea aún más sencillo y seguro.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Características Principales
+Catálogo Extenso: Descubre un amplio abanico de videojuegos para PC, desde clásicos hasta los últimos lanzamientos, todo en un solo lugar.
 
-## Available Scripts
+Interfaz Intuitiva: Hemos diseñado una interfaz amigable para facilitar la navegación y hacer que tu experiencia sea lo más agradable posible.
 
-In the project directory, you can run:
+Registro de Desarrolladores: Para los creadores de videojuegos, ofrecemos una plataforma donde pueden publicar y vender sus creaciones directamente a los jugadores.
 
-### `npm start`
+Selector de Juegos: Encuentra tus juegos favoritos utilizando nuestro selector, con filtros por género, plataforma y más.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Nuevos Lanzamientos: Mantente al día con las últimas adiciones a nuestro catálogo, explorando emocionantes nuevos lanzamientos.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Avances
+¡Echa un vistazo a nuestra interfaz en constante evolución!
 
-### `npm test`
+Explora Starphy en https://usuarios-b78e1.web.app/, ¡donde estamos mejorándola diariamente para ti!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Para Desarrolladores
+¿Eres un desarrollador de videojuegos? Únete a nuestra plataforma y comparte tus creaciones con la comunidad de jugadores. ¡Starphy es el lugar perfecto para dar a conocer tus proyectos!
